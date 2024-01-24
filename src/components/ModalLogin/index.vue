@@ -1,5 +1,5 @@
 <template>
-  <h1>Welcome to the Feedback page!</h1>
+  <h1>Modal de login</h1>
 </template>
 
 <script>
